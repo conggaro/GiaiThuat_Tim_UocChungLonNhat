@@ -1,0 +1,15 @@
+C:\Users\nccon\Downloads\GiaiThuat_Tim_UocChungLonNhat\GiaiThuat_Tim_UCLN_code_C_sharp\bin\Debug\net7.0\GiaiThuat_Tim_UCLN_code_C_sharp.exe
+C:\Users\nccon\Downloads\GiaiThuat_Tim_UocChungLonNhat\GiaiThuat_Tim_UCLN_code_C_sharp\bin\Debug\net7.0\GiaiThuat_Tim_UCLN_code_C_sharp.deps.json
+C:\Users\nccon\Downloads\GiaiThuat_Tim_UocChungLonNhat\GiaiThuat_Tim_UCLN_code_C_sharp\bin\Debug\net7.0\GiaiThuat_Tim_UCLN_code_C_sharp.runtimeconfig.json
+C:\Users\nccon\Downloads\GiaiThuat_Tim_UocChungLonNhat\GiaiThuat_Tim_UCLN_code_C_sharp\bin\Debug\net7.0\GiaiThuat_Tim_UCLN_code_C_sharp.dll
+C:\Users\nccon\Downloads\GiaiThuat_Tim_UocChungLonNhat\GiaiThuat_Tim_UCLN_code_C_sharp\bin\Debug\net7.0\GiaiThuat_Tim_UCLN_code_C_sharp.pdb
+C:\Users\nccon\Downloads\GiaiThuat_Tim_UocChungLonNhat\GiaiThuat_Tim_UCLN_code_C_sharp\obj\Debug\net7.0\GiaiThuat_Tim_UCLN_code_C_sharp.csproj.AssemblyReference.cache
+C:\Users\nccon\Downloads\GiaiThuat_Tim_UocChungLonNhat\GiaiThuat_Tim_UCLN_code_C_sharp\obj\Debug\net7.0\GiaiThuat_Tim_UCLN_code_C_sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nccon\Downloads\GiaiThuat_Tim_UocChungLonNhat\GiaiThuat_Tim_UCLN_code_C_sharp\obj\Debug\net7.0\GiaiThuat_Tim_UCLN_code_C_sharp.AssemblyInfoInputs.cache
+C:\Users\nccon\Downloads\GiaiThuat_Tim_UocChungLonNhat\GiaiThuat_Tim_UCLN_code_C_sharp\obj\Debug\net7.0\GiaiThuat_Tim_UCLN_code_C_sharp.AssemblyInfo.cs
+C:\Users\nccon\Downloads\GiaiThuat_Tim_UocChungLonNhat\GiaiThuat_Tim_UCLN_code_C_sharp\obj\Debug\net7.0\GiaiThuat_Tim_UCLN_code_C_sharp.csproj.CoreCompileInputs.cache
+C:\Users\nccon\Downloads\GiaiThuat_Tim_UocChungLonNhat\GiaiThuat_Tim_UCLN_code_C_sharp\obj\Debug\net7.0\GiaiThuat_Tim_UCLN_code_C_sharp.dll
+C:\Users\nccon\Downloads\GiaiThuat_Tim_UocChungLonNhat\GiaiThuat_Tim_UCLN_code_C_sharp\obj\Debug\net7.0\refint\GiaiThuat_Tim_UCLN_code_C_sharp.dll
+C:\Users\nccon\Downloads\GiaiThuat_Tim_UocChungLonNhat\GiaiThuat_Tim_UCLN_code_C_sharp\obj\Debug\net7.0\GiaiThuat_Tim_UCLN_code_C_sharp.pdb
+C:\Users\nccon\Downloads\GiaiThuat_Tim_UocChungLonNhat\GiaiThuat_Tim_UCLN_code_C_sharp\obj\Debug\net7.0\GiaiThuat_Tim_UCLN_code_C_sharp.genruntimeconfig.cache
+C:\Users\nccon\Downloads\GiaiThuat_Tim_UocChungLonNhat\GiaiThuat_Tim_UCLN_code_C_sharp\obj\Debug\net7.0\ref\GiaiThuat_Tim_UCLN_code_C_sharp.dll
